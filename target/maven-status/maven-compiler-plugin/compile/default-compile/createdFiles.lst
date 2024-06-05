@@ -1,0 +1,6 @@
+ru\praktikum\steps\OrderSteps.class
+ru\praktikum\steps\TestStends.class
+ru\praktikum\steps\CourierSteps.class
+ru\praktikum\models\Order.class
+ru\praktikum\steps\EndPoints.class
+ru\praktikum\models\Courier.class
