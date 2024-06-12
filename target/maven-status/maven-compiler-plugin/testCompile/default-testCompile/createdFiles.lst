@@ -1,0 +1,5 @@
+ru\praktikum\order\tests\OrderListTests.class
+ru\praktikum\courier\tests\AuthorizationCourierTests.class
+ru\praktikum\courier\tests\CreateCourierTests.class
+ru\praktikum\courier\tests\CreateCourierWithInvalidData.class
+ru\praktikum\order\tests\OrderCreationTests.class
